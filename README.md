@@ -1,10 +1,10 @@
-# Hi, I'm Stefanut 
 
-I'm a cybersecurity enthusiast and student from Craiova, passionate about low-level coding and building tools that explore the depths of systems.
+
+Hello, my name is Stefanut. I'm a cybersecurity enthusiast and student from Craiova, passionate about low-level coding and building tools that explore the depths of systems.
 
 ---
 
-## 👨‍💻 What I do
+## 👨‍💻 Projects
 
 💼 Currently working on:
 
@@ -23,17 +23,12 @@ I'm a cybersecurity enthusiast and student from Craiova, passionate about low-le
 ## 💻 Tech Stack
 
 - **Languages:** C++, C, Assembly, Python  
-- **Tools:** Wireshark, Scapy, Visual Studio, MASM, WinDbg  
-- **Platforms:** Windows, Linux
+- **Tools:** Wireshark, Scapy, Visual Studio, x64dgb, IDA
+- **Platforms:** Windows, macOS
 
----
-
-## 😄 Fun fact
-
-Only half of cybersecurity is coding. The other 90% is debugging and researching weird bugs.
 
 ---
 
 ## 📈 Github Stats
 
-![MitroTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitrotm&show_icons=true&theme=radical)
+![mitronique's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitronique&show_icons=true&theme=radical)
