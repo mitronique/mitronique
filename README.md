@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Stefanut 
 
-<!--
-**mitronique/mitronique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity enthusiast and student from Craiova, passionate about low-level coding and building tools that explore the depths of systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 What I do
+
+💼 Currently working on:
+
+- Kernel-Mode Rootkit Simulator in C++  
+- Multi-Protocol Network Intrusion Detection System  
+- Advanced Port Scanner
+
+✨ Maintaining & learning:
+
+- Assembly programming and system internals  
+- Ethical hacking techniques  
+- Network traffic analysis with Scapy & Wireshark
+
+---
+
+## 💻 Tech Stack
+
+- **Languages:** C++, C, Assembly, Python  
+- **Tools:** Wireshark, Scapy, Visual Studio, MASM, WinDbg  
+- **Platforms:** Windows, Linux
+
+---
+
+## 😄 Fun fact
+
+Only half of cybersecurity is coding. The other 90% is debugging and researching weird bugs.
+
+---
+
+## 📈 Github Stats
+
+![MitroTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitrotm&show_icons=true&theme=radical)
