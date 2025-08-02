@@ -6,12 +6,6 @@ Hello, my name is Stefanut. I'm a cybersecurity enthusiast and student from Crai
 
 ## 👨‍💻 Projects
 
-💼 Currently working on:
-
-- Kernel-Mode Rootkit Simulator in C++  
-- Multi-Protocol Network Intrusion Detection System  
-- Advanced Port Scanner
-
 ✨ Maintaining & learning:
 
 - Assembly programming and system internals  
