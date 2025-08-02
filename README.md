@@ -17,7 +17,7 @@ Hello, my name is Stefanut. I'm a cybersecurity enthusiast and student from Crai
 ## 💻 Tech Stack
 
 - **Languages:** C++, C, Assembly, Python  
-- **Tools:** Wireshark, Scapy, Visual Studio, x64dgb, IDA
+- **Tools:** Wireshark, Scapy, Visual Studio, x64dbg, IDA
 - **Platforms:** Windows, macOS
 
 
